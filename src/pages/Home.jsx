@@ -26,7 +26,7 @@ export default function Home() {
       <section className="hero">
         <div className="container hero__inner">
           <div className="hero__text">
-            <p className="eyebrow">2027 봄학기 수강생 모집 중</p>
+            <p className="eyebrow">2028 봄학기 수강생 모집 중</p>
             <h1>머릿속 영어를<br /><em>입 밖으로</em> 꺼내는 시간</h1>
             <p className="hero__lead">
               문법은 아는데 말이 안 나온다면, 방법을 바꿀 때입니다.<br />
